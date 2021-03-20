@@ -1,0 +1,18 @@
+{
+    "loottables.json": {
+        "method": "replace",
+        "location": "config/plus/BepInEx/plugins/EpicLoot-RandyKnapp/"
+    },
+    "org.bepinex.plugins.creaturelevelcontrol.cfg": {
+        "method": "patch",
+        "location": "save/valheimplus/"
+    },
+    "randyknapp.mods.epicloot.cfg": {
+        "method": "patch",
+        "location": "save/valheimplus/"
+    },
+    "valheim_plus.cfg": {
+        "method": "patch",
+        "location": "save/valheimplus/"
+    }
+}
